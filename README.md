@@ -34,6 +34,6 @@ Reading a clue, sending an answer and running code were allowed. Anything destru
 
 ## More
 
-- How it went, in our words: [proofable.me/blog](https://proofable.me/blog)
+- How it went, in our words: [Proofable won NVIDIA's Live Agent Gauntlet](https://proofable.me/proof/0x622cce0f83068f32e570fab1f3eb5a4ad9a554bc3157bab5bddf41454260a487)
 - Every benchmark, beside the tools teams use today: [proofable.me/benchmarks](https://proofable.me/benchmarks)
 - Put the same limits on your own agent: [github.com/proofable/agent](https://github.com/proofable/agent)
