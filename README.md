@@ -1,10 +1,8 @@
-# Proofable's entry in the NVIDIA Agent Gauntlet
+# #1 in NVIDIA's Live Agent Gauntlet
 
-**Proofable won the NVIDIA Developer Live Agent Gauntlet on 5 November 2026.** It took the final in round four with the top score of the tournament, 98.00, across 20 teams and 11 heats.
+**Top score of 20 teams: 98.00.**
 
-Each agent was dropped into an MCP server it had never seen, with hidden tools, encrypted data and no documentation, and had to solve it live with the clock running. Every call this agent made was decided before it ran, by a permission it carried, and left a receipt.
-
-This repository is the exact submission NVIDIA ran.
+Every agent faced an unseen MCP server with hidden tools and no docs, live. Ours checked every call against its permission before it ran.
 
 ## Check it is the same file
 
